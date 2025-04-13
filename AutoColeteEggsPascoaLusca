@@ -1,5 +1,5 @@
-game:GetService("StarterGui"):SetCore("SendNotification",{Title="Credit",Text="This script made by Lord Sudo",Duration=5})
-game:GetService("StarterGui"):SetCore("SendNotification",{Title="Script",Text="This will take a while to unlock everything.",Duration=5})
+game:GetService("StarterGui"):SetCore("SendNotification",{Title="Creditos",Text="This Feito Por Luscaa",Duration=5})
+game:GetService("StarterGui"):SetCore("SendNotification",{Title="Script",Text="Espere ate pegar todos os ovos.",Duration=5})
 local args = {
     [1] = "Baby"
 }
@@ -80,4 +80,4 @@ for m=1,35 do
     wait(0.5)
 end
 
-game:GetService("StarterGui"):SetCore("SendNotification",{Title="Script",Text="Done!",Duration=5})
+game:GetService("StarterGui"):SetCore("SendNotification",{Title="Script",Text="Feito!",Duration=5})
